@@ -76,7 +76,7 @@ def get_probability_for_model(model, texts):
             probs = model.predict_proba(texts)
             # If binary classification, return probability of positive (index 1)
             if probs.ndim == 2 and probs.shape[1] >= 2:
-                return probs[:, 1]
+                return probs[:, 0]
             return probs.max(axis=1)
         except Exception:
             pass
@@ -212,7 +212,8 @@ with tabs[0]:
                         prob_val = float(prob)
                         is_phish = prob_val >= threshold
                         label_text = "🔴 PHISHING DETECTED" if is_phish else "🟢 SAFE MESSAGE"
-                        confidence_pct = f"{prob_val*100:.2f}%"
+                        confidence_value = prob_val if is_phish else (1 - prob_val)
+                        confidence_pct = f"{confidence_value*100:.2f}%"
 
                         display_rows.append({
                             "source": src,

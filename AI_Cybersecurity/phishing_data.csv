@@ -1,12 +1,12 @@
 text,label
-"Your account has been suspended. Click this link immediately to verify your account",phishing
-"Congratulations! You have won a cash prize. Click here to claim it",phishing
-"Urgent! Your bank account will be blocked unless you verify your details now",phishing
-"Your password is about to expire. Click the link to reset it immediately",phishing
+"URGENT! Your bank account has been suspended. Click this link immediately to verify your account",phishing
+"Congratulations! You have won a cash prize. Click here to claim your reward",phishing
+"Your bank account will be blocked unless you verify your details immediately",phishing
+"Your password is about to expire. Click the link to reset it now",phishing
 "You have received a free gift. Provide your information to claim your reward",phishing
 "Security alert! We detected unusual activity. Verify your account now",phishing
 "Your payment failed. Click here and enter your card details to complete the payment",phishing
-"Congratulations, you are selected for a lottery. Send your bank details to receive the prize",phishing
+"You have been selected for a lottery prize. Send your bank details to receive the money",phishing
 "Your email account will be deleted today. Login now to prevent deletion",phishing
 "Click this link urgently to confirm your identity and avoid account suspension",phishing
 "Your bank has detected suspicious activity. Verify your account immediately",phishing
@@ -19,23 +19,83 @@ text,label
 "Your account has unusual activity. Login through this link to secure it",phishing
 "Free vacation offer! Enter your personal details to receive your ticket",phishing
 "Your subscription will expire today. Click here to renew your payment details",phishing
-"Hi team, today's project meeting is scheduled at 10 AM",safe
-"Please find the project report attached for your review",safe
+"Your online banking access has been locked. Verify your identity using this link",phishing
+"Final warning! Confirm your account information immediately to avoid closure",phishing
+"You have won a shopping voucher. Click here and provide your details to claim it",phishing
+"Your mobile account needs verification. Enter your password to continue",phishing
+"Payment verification required. Click the link and enter your card number",phishing
+"Your account security has been compromised. Login immediately to protect it",phishing
+"Congratulations! You were chosen to receive a special reward. Claim it now",phishing
+"Your delivery is on hold. Pay the small fee using this link to receive your package",phishing
+"Your tax refund is ready. Enter your bank details to receive the payment",phishing
+"Your account will be closed within 24 hours unless you verify your information",phishing
+"Security warning! Click here to confirm your login details",phishing
+"You have been selected for a limited-time cash bonus. Claim your prize now",phishing
+"Your payment account has been restricted. Verify your details to restore access",phishing
+"Click immediately to confirm your identity or your account will be suspended",phishing
+"Your credit card payment requires verification. Enter your card information here",phishing
+"You have received a surprise reward. Click the link to collect your money",phishing
+"Your account verification failed. Submit your personal information again",phishing
+"Urgent security update required. Login now to keep your account active",phishing
+"Your parcel is waiting. Pay the delivery charge by clicking this link",phishing
+"Congratulations! You are eligible for a free cash reward. Claim it today",phishing
+"Your account has been selected for security review. Verify your details now",phishing
+"Your password has expired. Click here and enter your current password to renew it",phishing
+"Final notice! Your payment account will be disabled unless you verify it",phishing
+"Exclusive prize available for you. Click here to provide your information",phishing
+"Your bank card has been suspended. Confirm your details immediately",phishing
+"Unusual login detected. Click this link and verify your account credentials",phishing
+"Your subscription payment failed. Update your card information using this link",phishing
+"You have won a free holiday. Enter your personal details to claim your ticket",phishing
+"Immediate action required! Verify your account before access is permanently blocked",phishing
+"Your refund cannot be processed. Click here and provide your bank information",phishing
+"Hi team, today's project meeting is scheduled for 10 AM. Please join on time.",safe
+"Please review the project report and send me your feedback.",safe
+"The college seminar will begin at 9 AM tomorrow.",safe
 "Can we meet tomorrow to discuss the project?",safe
-"Your appointment is confirmed for Monday at 11 AM",safe
-"Please submit the assignment before Friday",safe
-"The college seminar will begin at 9 AM tomorrow",safe
-"Hi, I have shared the presentation with you",safe
-"Please review the document and send me your feedback",safe
-"Your order has been delivered successfully",safe
-"Thank you for attending today's meeting",safe
-"Please remember to bring your ID card tomorrow",safe
-"The team meeting has been moved to 3 PM",safe
-"Here is the monthly sales report for your reference",safe
-"Please contact me when you are available",safe
-"The exam timetable has been published",safe
-"Your interview is scheduled for tomorrow at 10 AM",safe
-"Please check the attached project requirements",safe
-"Let's discuss the project during tomorrow's meeting",safe
-"Your registration has been successfully completed",safe
-"Thank you for your response. I will get back to you soon",safe
+"Please submit the assignment before Friday.",safe
+"Hi, I have shared the presentation with you.",safe
+"Please review the document and send me your feedback.",safe
+"Your order has been delivered successfully.",safe
+"Thank you for attending today's meeting.",safe
+"Please remember to bring your ID card tomorrow.",safe
+"The team meeting has been moved to 3 PM.",safe
+"Here is the monthly sales report for your reference.",safe
+"Please contact me when you are available.",safe
+"The exam timetable has been published.",safe
+"Your interview is scheduled for tomorrow at 10 AM.",safe
+"Please check the attached project requirements.",safe
+"Let's discuss the project during tomorrow's meeting.",safe
+"Your registration has been successfully completed.",safe
+"Thank you for your response. I will get back to you soon.",safe
+"Please send me the final version of the presentation.",safe
+"The department meeting is scheduled for Monday afternoon.",safe
+"Your assignment submission has been received successfully.",safe
+"Please bring your project notebook to class tomorrow.",safe
+"The workshop will start at 2 PM in the seminar hall.",safe
+"I have attached the updated project report for review.",safe
+"Please let me know if you need any help with the assignment.",safe
+"The college library will remain open until 6 PM today.",safe
+"Our project discussion has been moved to Friday.",safe
+"Please attend the scheduled team meeting tomorrow.",safe
+"The examination results have been published on the college portal.",safe
+"Your appointment has been confirmed for Wednesday morning.",safe
+"Please share the meeting notes when you have time.",safe
+"The presentation file has been uploaded to the shared folder.",safe
+"Thank you for completing the project work on time.",safe
+"Please check the timetable for next week's classes.",safe
+"The seminar registration has been completed successfully.",safe
+"I will send the project files later today.",safe
+"Please review the meeting agenda before tomorrow.",safe
+"The team will discuss the new project requirements today.",safe
+"Your application has been received by the college office.",safe
+"Please bring your laptop for the practical session.",safe
+"The class has been rescheduled to 11 AM tomorrow.",safe
+"I have finished reviewing the report.",safe
+"Please confirm whether you can attend the meeting.",safe
+"The college event will take place next Saturday.",safe
+"Please submit your feedback after the seminar.",safe
+"The project presentation is scheduled for Friday.",safe
+"Your course registration has been successfully recorded.",safe
+"Please send the document to the project team.",safe
+"Thanks for sharing the information. I will review it shortly.",safe
