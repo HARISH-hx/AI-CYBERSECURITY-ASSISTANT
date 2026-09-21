@@ -1,0 +1,700 @@
+1 | SAFE | Hi team, today's project meeting is scheduled for 9 AM. Please join on time.
+2 | PHISHING | URGENT! Your bank account has been suspended. Click the link immediately and verify your password.
+3 | SAFE | Please review the project report and share your feedback.
+4 | SAFE | The college seminar will begin at 10 AM tomorrow. Please arrive a few minutes early.
+5 | PHISHING | Congratulations! You have won a cash prize. Click here to claim your reward immediately.
+6 | SAFE | I have shared the latest presentation with the project team for review.
+7 | PHISHING | Your email account will be permanently blocked unless you verify your details immediately.
+8 | SAFE | Please submit the assignment before Friday afternoon.
+9 | SAFE | The department meeting is scheduled for 11 AM tomorrow.
+10 | PHISHING | Security alert! Unusual activity was detected on your online account. Login now to verify your identity.
+11 | SAFE | Can we meet tomorrow to discuss the project requirements?
+12 | PHISHING | Your password is about to expire. Click the verification link immediately to keep your account active.
+13 | SAFE | The updated project schedule is available in the shared folder.
+14 | PHISHING | Your payment failed. Enter your card details through the link to complete the payment.
+15 | SAFE | Please bring your ID card for tomorrow's seminar.
+16 | SAFE | Thank you for attending today's project meeting.
+17 | PHISHING | You have been selected for an exclusive reward. Provide your bank details to receive the money.
+18 | SAFE | Your interview is scheduled for tomorrow at 10 AM.
+19 | PHISHING | Final warning! Your bank account will be closed today unless you confirm your personal information.
+20 | SAFE | Please check the attached project requirements and let me know if anything needs correction.
+21 | SAFE | The monthly sales report is ready for your review.
+22 | PHISHING | Your package cannot be delivered. Click the link and pay the delivery fee immediately.
+23 | SAFE | The training session will begin at 2 PM on Friday.
+24 | PHISHING | Important security notice! Confirm your username and password immediately using the attached link.
+25 | SAFE | Please contact me when you are available for a short discussion.
+26 | PHISHING | Your online banking access requires immediate verification. Click here and enter your login credentials.
+27 | SAFE | The exam timetable has been published by the department.
+28 | SAFE | I will send the final project report after completing the review.
+29 | PHISHING | Free vacation offer! Enter your personal details now to receive your ticket.
+30 | SAFE | Our project team will meet in the laboratory tomorrow morning.
+31 | PHISHING | Your credit card has been blocked. Confirm your information using this link.
+32 | SAFE | Please confirm your availability for the next project discussion.
+33 | PHISHING | Urgent payment verification required. Click the link and provide your account information.
+34 | SAFE | The workshop materials are available in the shared folder.
+35 | SAFE | Your appointment is confirmed for Monday at 11 AM.
+36 | PHISHING | Your account has unusual activity. Use the link below to secure your account immediately.
+37 | SAFE | Please send the meeting notes when you have time.
+38 | PHISHING | You are eligible for a limited cash bonus. Click here and provide your banking information.
+39 | SAFE | The class will begin at 9 AM tomorrow.
+40 | PHISHING | Your subscription will expire today. Click here to renew your payment details.
+41 | SAFE | Please review the document and suggest any corrections.
+42 | PHISHING | Your email security verification is incomplete. Login now to prevent account restrictions.
+43 | SAFE | The project review session is planned for Wednesday afternoon.
+44 | SAFE | I have uploaded the research notes to the shared project folder.
+45 | PHISHING | Your account access has been limited. Verify your password immediately to restore access.
+46 | SAFE | Please bring the required documents for the department meeting.
+47 | PHISHING | Congratulations! A special cash reward has been reserved for you. Click here to claim it.
+48 | SAFE | The laboratory session has been moved to 3 PM.
+49 | SAFE | Please send your comments about the presentation before tomorrow.
+50 | PHISHING | Your banking profile needs confirmation. Provide your login credentials now.
+51 | SAFE | The seminar materials will be distributed before the session begins.
+52 | PHISHING | Final security warning! Click the verification link immediately or lose account access.
+53 | SAFE | Please check whether the meeting time is convenient for everyone.
+54 | SAFE | The project documentation has been updated with the latest information.
+55 | PHISHING | Your refund is waiting. Enter your card information to receive the refund.
+56 | SAFE | I will share the revised report after receiving the team's suggestions.
+57 | PHISHING | Your account has been selected for a special reward. Send your bank information to claim it.
+58 | SAFE | The department has scheduled a review meeting for Friday.
+59 | SAFE | Please complete the registration form before the seminar.
+60 | PHISHING | Urgent! Verify your personal information now or your account will be permanently blocked.
+61 | SAFE | The project presentation is ready for tomorrow's discussion.
+62 | PHISHING | You have won a limited-time prize. Click here and enter your details to receive it.
+63 | SAFE | Please upload the completed assignment to the class folder.
+64 | SAFE | The interview panel will meet at 10 AM tomorrow.
+65 | PHISHING | Your payment account requires immediate verification. Click the link and confirm your card details.
+66 | SAFE | I have shared the meeting agenda with everyone.
+67 | PHISHING | Security alert! Confirm your account password immediately to avoid suspension.
+68 | SAFE | The college event will start at 4 PM today.
+69 | SAFE | Please review the attendance information and report any errors.
+70 | PHISHING | Your delivery is on hold because a small fee is required. Pay through the link immediately.
+71 | SAFE | The project team will discuss the final requirements tomorrow.
+72 | PHISHING | Your online account will be deleted today unless you verify your identity.
+73 | SAFE | Please bring your laptop for the project demonstration.
+74 | SAFE | The assignment submission deadline has been extended until Friday.
+75 | PHISHING | Congratulations! You are eligible for an exclusive financial reward. Claim it now.
+76 | SAFE | The next team meeting will be held in the conference room.
+77 | PHISHING | Your password verification has failed. Click here and enter your current password.
+78 | SAFE | Please send the updated spreadsheet when it is ready.
+79 | SAFE | The seminar registration has been successfully completed.
+80 | PHISHING | Your bank has detected suspicious activity. Verify your account immediately through this link.
+81 | SAFE | We can discuss the project design during tomorrow's meeting.
+82 | PHISHING | Your card has been temporarily locked. Confirm your banking information now.
+83 | SAFE | The department timetable has been updated.
+84 | SAFE | Please review the attached presentation before the meeting.
+85 | PHISHING | Act now! You have been selected for a cash reward. Provide your bank details to receive it.
+86 | SAFE | The workshop will begin at 2 PM on Saturday.
+87 | PHISHING | Your account verification is required today. Click the link and provide your personal information.
+88 | SAFE | Thank you for sharing the project information.
+89 | SAFE | The class notes have been uploaded to the shared folder.
+90 | PHISHING | Your subscription payment failed. Enter your card information through the link to renew it.
+91 | SAFE | Please confirm the location of tomorrow's project meeting.
+92 | PHISHING | Your account has been flagged for unusual activity. Login immediately to prevent closure.
+93 | SAFE | The research discussion is planned for Thursday afternoon.
+94 | SAFE | Please send the final document after making the requested changes.
+95 | PHISHING | You have been chosen for a free reward. Click here and submit your personal details.
+96 | SAFE | The college seminar schedule has been shared with all participants.
+97 | PHISHING | URGENT! Your payment account will be blocked unless you verify your card details now.
+98 | SAFE | Please check the project folder for the latest files.
+99 | SAFE | The meeting has been moved to 3 PM. Please update your calendar.
+100 | PHISHING | Final warning! Verify your online banking credentials immediately to avoid losing access.
+101 | SAFE | The project meeting notes have been shared with the team.
+102 | PHISHING | URGENT! Your bank profile requires immediate verification. Click the link and enter your password.
+103 | SAFE | Please review the seminar agenda before tomorrow's session.
+104 | SAFE | The updated assignment instructions are available on the class portal.
+105 | PHISHING | Congratulations! You have been selected for a financial reward. Submit your bank details to claim it.
+106 | SAFE | I will be available for the project discussion after lunch.
+107 | PHISHING | Your email account is at risk of suspension. Verify your login information immediately.
+108 | SAFE | Please confirm whether you can attend the department meeting.
+109 | SAFE | The project report has been submitted for faculty review.
+110 | PHISHING | Your card payment could not be processed. Click the link and enter your card information again.
+111 | SAFE | The laboratory has been reserved for the project demonstration.
+112 | PHISHING | Final warning! Your account will be locked unless you verify your identity today.
+113 | SAFE | Please bring a printed copy of the presentation to the seminar.
+114 | SAFE | The team has agreed to meet at 10 AM tomorrow.
+115 | PHISHING | You have won a special cash prize. Click here immediately to provide your payment information.
+116 | SAFE | The research document is ready for everyone to review.
+117 | PHISHING | Suspicious activity was detected on your account. Login through the verification link now.
+118 | SAFE | Please update the project members list before the next meeting.
+119 | SAFE | The college workshop registration deadline is Friday.
+120 | PHISHING | Your account password will expire today. Confirm your current password through the link.
+121 | SAFE | I have uploaded the latest project files to the shared folder.
+122 | PHISHING | Your refund cannot be processed until you confirm your card details.
+123 | SAFE | Please check the timetable for the upcoming examination.
+124 | SAFE | The presentation practice session will start at 3 PM.
+125 | PHISHING | Your banking account has been restricted. Verify your personal details immediately.
+126 | SAFE | Thank you for sending the revised project report.
+127 | PHISHING | Claim your exclusive reward now by entering your bank account information.
+128 | SAFE | The seminar room has been changed to the main auditorium.
+129 | SAFE | Please send the attendance list before the end of the day.
+130 | PHISHING | Your online account will be permanently disabled unless you confirm your identity immediately.
+131 | SAFE | The project discussion has been moved to Thursday.
+132 | PHISHING | Your delivery is waiting for payment. Click the link and pay the required delivery charge.
+133 | SAFE | Please review the budget document before our next meeting.
+134 | SAFE | The class representative has shared the updated schedule.
+135 | PHISHING | Urgent security notice! Enter your username and password to prevent account closure.
+136 | SAFE | The training materials have been uploaded for participants.
+137 | PHISHING | You have been selected for a limited prize. Click here and provide your personal information.
+138 | SAFE | Please confirm the final date for the project presentation.
+139 | SAFE | The department has approved the seminar schedule.
+140 | PHISHING | Your payment account needs verification. Submit your card number immediately.
+141 | SAFE | I will bring the required documents to the meeting.
+142 | PHISHING | Your account has detected an unusual login. Verify your credentials now.
+143 | SAFE | Please check the shared folder for the updated report.
+144 | SAFE | The project team will meet after the afternoon class.
+145 | PHISHING | Congratulations! Your account has received a reward. Click the link to claim the money.
+146 | SAFE | The interview schedule has been sent to all candidates.
+147 | PHISHING | Your credit card security check has failed. Confirm your card details using the link.
+148 | SAFE | Please complete the seminar feedback form after the session.
+149 | SAFE | The exam preparation meeting is scheduled for Friday.
+150 | PHISHING | Your account will be blocked within hours unless you complete the verification process.
+151 | SAFE | I have attached the project summary for your reference.
+152 | PHISHING | Click here immediately to secure your account after a suspicious login was detected.
+153 | SAFE | Please let me know if any changes are required in the report.
+154 | SAFE | The department office will be open until 5 PM today.
+155 | PHISHING | Your subscription payment is overdue. Enter your payment details through the link now.
+156 | SAFE | The project team has completed the first review.
+157 | PHISHING | You are eligible for a special bonus. Provide your banking information to receive the payment.
+158 | SAFE | Please bring your college ID for the workshop.
+159 | SAFE | The final presentation will be reviewed tomorrow morning.
+160 | PHISHING | Your email mailbox is scheduled for deletion. Login now to stop the deletion.
+161 | SAFE | The meeting agenda has been updated with the latest topics.
+162 | PHISHING | Your bank has detected suspicious transactions. Verify your account immediately.
+163 | SAFE | Please submit the completed form to the department office.
+164 | SAFE | The project files have been backed up to the shared drive.
+165 | PHISHING | Final notice! Confirm your password now or your account access will be removed.
+166 | SAFE | The seminar speakers will arrive before the session begins.
+167 | PHISHING | Your delivery address needs confirmation. Click the link and provide your personal details.
+168 | SAFE | Please review the minutes from yesterday's meeting.
+169 | SAFE | The assignment evaluation will be completed next week.
+170 | PHISHING | Congratulations! You have qualified for a cash reward. Claim it before the offer expires.
+171 | SAFE | The team discussion will continue during tomorrow's class.
+172 | PHISHING | Your banking credentials need urgent verification. Enter them through the secure link.
+173 | SAFE | I have shared the final version of the project document.
+174 | SAFE | Please confirm the number of participants for the workshop.
+175 | PHISHING | Your account has been temporarily locked because of unusual activity. Verify it now.
+176 | SAFE | The project demonstration is scheduled for Monday afternoon.
+177 | PHISHING | Your card has been selected for a special cashback reward. Confirm your card information now.
+178 | SAFE | Please send the updated contact list to the team.
+179 | SAFE | The college event registration has been completed successfully.
+180 | PHISHING | Your online payment has failed. Click the link and provide your banking details to retry it.
+181 | SAFE | The research group will meet in the laboratory at 2 PM.
+182 | PHISHING | Your account verification deadline is today. Click here to confirm your identity.
+183 | SAFE | Please review the presentation slides before the final meeting.
+184 | SAFE | The department has released the revised examination timetable.
+185 | PHISHING | You have won an exclusive shopping voucher. Enter your personal details to claim it.
+186 | SAFE | I will send the meeting invitation shortly.
+187 | PHISHING | Your bank account security has expired. Verify your password immediately.
+188 | SAFE | Please check the project requirements before beginning the next task.
+189 | SAFE | The workshop certificate will be available next week.
+190 | PHISHING | Your account may be suspended because verification is incomplete. Click the link now.
+191 | SAFE | The seminar feedback will be discussed during the next department meeting.
+192 | PHISHING | Urgent! Your payment card has been blocked. Confirm your details to restore access.
+193 | SAFE | Please share the final report with the project coordinator.
+194 | SAFE | The laboratory timetable has been updated for this week.
+195 | PHISHING | A cash reward is waiting for you. Click here and provide your bank information.
+196 | SAFE | The team will review the project results tomorrow.
+197 | PHISHING | Your account requires immediate identity verification. Enter your login details using the link.
+198 | SAFE | Please remember to submit the assignment before the deadline.
+199 | SAFE | The interview room has been changed to the conference room.
+200 | PHISHING | Final security alert! Verify your account immediately to avoid permanent suspension.
+201 | SAFE | The project coordinator has shared the agenda for next week's meeting.
+202 | PHISHING | URGENT! Your online banking account requires immediate verification. Click the link and confirm your password.
+203 | SAFE | Please review the seminar presentation before the scheduled session.
+204 | PHISHING | Congratulations! You have been chosen to receive a cash prize. Enter your bank details to claim it.
+205 | SAFE | The project report will be discussed during tomorrow's team meeting.
+206 | SAFE | I have uploaded the latest assignment guidelines to the class folder.
+207 | PHISHING | Your account has been flagged for suspicious activity. Verify your identity immediately using the link.
+208 | SAFE | Please confirm whether the revised meeting time works for you.
+209 | PHISHING | Your payment card needs urgent verification. Click here and provide your card information.
+210 | SAFE | The department seminar will start at 9 AM on Monday.
+211 | SAFE | Please send the updated project schedule to the team.
+212 | PHISHING | Final warning! Your email account will be disabled unless you verify your login details today.
+213 | SAFE | The project documentation is ready for the next review.
+214 | PHISHING | You have won an exclusive reward. Click the link and enter your personal information to receive it.
+215 | SAFE | The laboratory project session has been scheduled for Wednesday.
+216 | SAFE | Please bring your presentation slides for the project discussion.
+217 | PHISHING | Your bank account has unusual activity. Confirm your username and password immediately.
+218 | SAFE | The exam preparation session will be held after the regular class.
+219 | PHISHING | Your subscription will be cancelled today unless you update your payment information through this link.
+220 | SAFE | I have shared the meeting minutes with everyone.
+221 | SAFE | Please review the attendance sheet and report any corrections.
+222 | PHISHING | Your refund is ready to be transferred. Enter your card details to receive the money.
+223 | SAFE | The project team will meet in the conference room at 2 PM.
+224 | PHISHING | Your account security check has failed. Click here and verify your personal details now.
+225 | SAFE | The workshop schedule has been confirmed by the department.
+226 | SAFE | Please submit your research notes before the next review.
+227 | PHISHING | Act immediately! Your banking access will be blocked unless you verify your credentials.
+228 | SAFE | The interview panel has confirmed tomorrow's schedule.
+229 | PHISHING | You are eligible for a limited-time cash reward. Provide your bank information to claim it.
+230 | SAFE | The college event will take place in the main auditorium.
+231 | SAFE | Please check the shared drive for the final project files.
+232 | PHISHING | Your email password is expiring today. Click the link and enter your current password.
+233 | SAFE | The team will discuss the final project results on Friday.
+234 | PHISHING | Your credit card has been temporarily suspended. Verify your card information immediately.
+235 | SAFE | I will send the updated report after the final review.
+236 | SAFE | Please confirm the number of students attending the seminar.
+237 | PHISHING | Your account will be permanently closed unless you complete the required verification.
+238 | SAFE | The department office has published the updated timetable.
+239 | PHISHING | Congratulations! You have received a special financial reward. Click here to claim it.
+240 | SAFE | Please review the project requirements before the next development session.
+241 | SAFE | The class presentation practice is scheduled for 4 PM.
+242 | PHISHING | Your payment has been rejected. Enter your banking information through the verification link.
+243 | SAFE | The seminar feedback form will be available after the session.
+244 | PHISHING | Security warning! Unusual login activity requires immediate password verification.
+245 | SAFE | Please share the final presentation with the project coordinator.
+246 | SAFE | The research meeting has been moved to Thursday afternoon.
+247 | PHISHING | Your account is at risk of suspension. Confirm your identity through the link immediately.
+248 | SAFE | I have completed the first draft of the project report.
+249 | PHISHING | Your delivery is waiting because a payment is required. Click here to pay the delivery fee.
+250 | SAFE | Please bring your laptop for tomorrow's demonstration.
+251 | SAFE | The assignment review meeting will begin at 11 AM.
+252 | PHISHING | You have been selected for a free gift. Enter your personal details to receive it.
+253 | SAFE | The department has approved the project presentation schedule.
+254 | PHISHING | Your online banking password must be confirmed immediately to prevent account closure.
+255 | SAFE | Please check the latest version of the document in the project folder.
+256 | SAFE | The workshop participants will receive the materials before the session.
+257 | PHISHING | Your account has been locked after unusual activity. Click the link to restore access.
+258 | SAFE | The project meeting will take place tomorrow morning.
+259 | PHISHING | Claim your exclusive cashback reward by entering your card information now.
+260 | SAFE | Please send your feedback on the seminar presentation.
+261 | SAFE | The interview details have been sent to all participants.
+262 | PHISHING | Your bank has detected suspicious activity. Login through the verification link immediately.
+263 | SAFE | The laboratory equipment has been arranged for the project session.
+264 | PHISHING | Final notice! Your account verification is overdue. Confirm your personal details now.
+265 | SAFE | Please review the final report before submitting it.
+266 | SAFE | The department discussion is scheduled for Friday at 3 PM.
+267 | PHISHING | You have won a special shopping voucher. Click here and provide your account details.
+268 | SAFE | I have shared the updated presentation with the team.
+269 | PHISHING | Your card payment requires urgent confirmation. Enter your card number through the link.
+270 | SAFE | Please complete the seminar registration before the deadline.
+271 | SAFE | The project review committee will meet next week.
+272 | PHISHING | Your email account requires immediate security verification. Login now to avoid deletion.
+273 | SAFE | The class schedule has been updated for the upcoming week.
+274 | PHISHING | Your account will be restricted unless you confirm your banking credentials today.
+275 | SAFE | Please send the revised assignment to the faculty member.
+276 | SAFE | The project team has finished testing the first version.
+277 | PHISHING | A financial reward has been reserved for you. Provide your bank information to receive it.
+278 | SAFE | The seminar room has been booked for the event.
+279 | PHISHING | Your password reset request requires immediate confirmation. Click the link and enter your password.
+280 | SAFE | Please check the project timeline before the next meeting.
+281 | SAFE | The research team will discuss the findings tomorrow.
+282 | PHISHING | Your account has been selected for a special promotion. Enter your personal information to claim the offer.
+283 | SAFE | The final examination schedule has been released.
+284 | PHISHING | Your payment account has been suspended. Verify your identity immediately to restore access.
+285 | SAFE | Please bring the project report to the review meeting.
+286 | SAFE | I will update the presentation after receiving your suggestions.
+287 | PHISHING | Your bank account verification is incomplete. Click here and provide your login details.
+288 | SAFE | The training program will start at 10 AM tomorrow.
+289 | PHISHING | Urgent! Your account will be deleted unless you verify your information immediately.
+290 | SAFE | Please confirm the seminar attendance list.
+291 | SAFE | The project files are available in the shared folder.
+292 | PHISHING | Congratulations! You have qualified for a cash bonus. Click here and submit your banking information.
+293 | SAFE | The department meeting will be held in the conference room.
+294 | PHISHING | Your credit card security verification has expired. Confirm your details through this link.
+295 | SAFE | Please review the research document before the group discussion.
+296 | SAFE | The workshop certificate will be distributed next week.
+297 | PHISHING | Your account has detected an unauthorized login. Verify your password immediately.
+298 | SAFE | I will send the meeting invitation to the team shortly.
+299 | PHISHING | Your subscription renewal requires immediate payment verification. Enter your card details now.
+300 | SAFE | Please submit the completed project form to the department office.
+301 | PHISHING | URGENT! Your bank account requires immediate security verification. Click the link and enter your login details.
+302 | SAFE | The project review meeting has been scheduled for Tuesday morning.
+303 | SAFE | Please check the latest assignment instructions before starting the work.
+304 | PHISHING | Congratulations! You have been selected for a special cash reward. Claim it by providing your bank information.
+305 | SAFE | The seminar presentation has been uploaded to the shared folder.
+306 | PHISHING | Your email account will be suspended unless you verify your password immediately.
+307 | SAFE | I will bring the project documents to tomorrow's meeting.
+308 | SAFE | Please confirm the final list of participants for the workshop.
+309 | PHISHING | Your payment was unsuccessful. Click here and enter your card details to complete the transaction.
+310 | SAFE | The department has announced the schedule for the upcoming seminar.
+311 | PHISHING | Your account has been flagged because of unusual activity. Verify your identity through this link now.
+312 | SAFE | Please review the meeting agenda before the project discussion.
+313 | SAFE | The laboratory session will begin at 2 PM tomorrow.
+314 | PHISHING | You have won a limited cash prize. Enter your personal details to receive your reward.
+315 | SAFE | The final project report is ready for faculty review.
+316 | PHISHING | Your online banking account will be blocked unless you confirm your credentials immediately.
+317 | SAFE | Please upload your completed assignment to the class folder.
+318 | SAFE | The interview schedule has been updated by the department.
+319 | PHISHING | Your credit card has been suspended. Click the verification link and confirm your card information.
+320 | SAFE | The research group will meet after the afternoon class.
+321 | PHISHING | Final warning! Your account will be permanently disabled unless you verify your information today.
+322 | SAFE | I have shared the revised project presentation with the team.
+323 | SAFE | Please bring the required materials for the laboratory session.
+324 | PHISHING | Your refund is ready. Enter your banking information through the link to receive the payment.
+325 | SAFE | The college event will be held in the main auditorium on Friday.
+326 | PHISHING | Security alert! Your account has unusual login activity. Confirm your password immediately.
+327 | SAFE | Please send your feedback on the latest project document.
+328 | SAFE | The department meeting will start at 11 AM tomorrow.
+329 | PHISHING | Your subscription is about to expire. Click here and update your payment details immediately.
+330 | SAFE | The workshop registration has been completed successfully.
+331 | PHISHING | You have been selected for an exclusive reward. Click here and provide your bank details.
+332 | SAFE | The project team will discuss the final results next Monday.
+333 | SAFE | Please review the timetable for the upcoming examination.
+334 | PHISHING | Your account verification has expired. Login now and confirm your personal information.
+335 | SAFE | The presentation practice session is planned for Thursday afternoon.
+336 | PHISHING | Your delivery cannot be completed until you pay the required fee through this link.
+337 | SAFE | I have uploaded the meeting notes for everyone to review.
+338 | SAFE | Please confirm your availability for the next project meeting.
+339 | PHISHING | Your banking profile needs urgent verification. Enter your username and password now.
+340 | SAFE | The seminar feedback form will be available after the presentation.
+341 | PHISHING | Congratulations! A special financial reward is waiting for you. Claim it immediately.
+342 | SAFE | The project coordinator has shared the updated schedule.
+343 | SAFE | Please check the shared folder for the latest research files.
+344 | PHISHING | Your email password will expire today. Click the link to reset it immediately.
+345 | SAFE | The exam preparation session will be held on Friday morning.
+346 | PHISHING | Your payment account has been locked. Verify your card details to restore access.
+347 | SAFE | Please send the completed report to the project coordinator.
+348 | SAFE | The department office has published the revised timetable.
+349 | PHISHING | Your account has detected suspicious transactions. Verify your identity immediately.
+350 | SAFE | The training materials have been shared with all participants.
+351 | PHISHING | Final security notice! Click the link and confirm your account password before access is removed.
+352 | SAFE | Please bring a copy of your project presentation to the seminar.
+353 | SAFE | The team meeting has been moved to 4 PM tomorrow.
+354 | PHISHING | You have qualified for a cash bonus. Provide your banking information to receive the payment.
+355 | SAFE | The research report is ready for discussion.
+356 | PHISHING | Your bank account has been restricted. Click here and verify your personal details.
+357 | SAFE | Please review the attendance report and report any corrections.
+358 | SAFE | The project demonstration will take place in the laboratory.
+359 | PHISHING | Your card payment requires urgent confirmation. Enter your card number using the link.
+360 | SAFE | I will send the final meeting invitation later today.
+361 | PHISHING | Your account is at risk of being closed. Complete the verification process immediately.
+362 | SAFE | The college workshop will begin at 10 AM on Saturday.
+363 | SAFE | Please submit the project form before the department deadline.
+364 | PHISHING | You have won an exclusive shopping reward. Click here and provide your personal information.
+365 | SAFE | The project documentation has been updated with the latest changes.
+366 | PHISHING | Your online account requires immediate password confirmation. Verify it through the link now.
+367 | SAFE | The seminar room has been reserved for the event.
+368 | SAFE | Please review the project budget before our next discussion.
+369 | PHISHING | Your refund cannot be transferred until you confirm your card details.
+370 | SAFE | The interview panel will meet at 10 AM tomorrow.
+371 | PHISHING | Your account will be suspended today unless you verify your identity immediately.
+372 | SAFE | I have shared the final project summary with the team.
+373 | SAFE | Please check the class portal for the updated assignment.
+374 | PHISHING | Urgent! Your banking credentials need verification. Enter them through the attached link.
+375 | SAFE | The department seminar schedule has been confirmed.
+376 | PHISHING | Your package is waiting for a delivery payment. Click the link and pay the fee now.
+377 | SAFE | Please send the presentation slides before tomorrow's meeting.
+378 | SAFE | The laboratory equipment is ready for the project session.
+379 | PHISHING | Your credit card security check has failed. Confirm your information immediately.
+380 | SAFE | The team will review the project findings during the next meeting.
+381 | PHISHING | Congratulations! You have been chosen for a financial prize. Submit your bank details to claim it.
+382 | SAFE | Please complete the seminar feedback form after the session.
+383 | SAFE | The department has released the final examination schedule.
+384 | PHISHING | Your account has unusual activity. Click here and enter your password to secure it.
+385 | SAFE | The project files have been organized in the shared folder.
+386 | PHISHING | Your subscription payment is overdue. Update your payment information immediately.
+387 | SAFE | Please confirm the meeting location with the project team.
+388 | SAFE | The workshop certificate will be available next week.
+389 | PHISHING | Final warning! Verify your online banking information or your account will be blocked.
+390 | SAFE | The research meeting is scheduled for Thursday at 3 PM.
+391 | PHISHING | You are eligible for a special cashback reward. Click here and enter your card details.
+392 | SAFE | Please review the final presentation before submitting it.
+393 | SAFE | The project coordinator will discuss the next phase tomorrow.
+394 | PHISHING | Your email account is scheduled for deletion. Login immediately to prevent deletion.
+395 | SAFE | I have completed the first draft of the research report.
+396 | PHISHING | Your account security verification is incomplete. Confirm your identity now.
+397 | SAFE | Please bring your college ID to the department office.
+398 | PHISHING | Your bank account has been temporarily locked. Verify your credentials to restore access.
+399 | SAFE | The project meeting notes will be reviewed during tomorrow's session.
+400 | PHISHING | URGENT! Your payment account will be closed unless you confirm your details immediately.
+401 | SAFE | Please review the project schedule before the next team meeting.
+402 | PHISHING | Your bank account has detected unusual activity. Click the link and verify your credentials immediately.
+403 | SAFE | The seminar presentation has been reviewed by the department.
+404 | SAFE | I have shared the updated assignment document with the class.
+405 | PHISHING | Congratulations! You have won a special cash reward. Enter your bank details to claim it.
+406 | SAFE | The project team will meet at 9 AM tomorrow to discuss the next task.
+407 | PHISHING | Your email account will be suspended today unless you confirm your password immediately.
+408 | SAFE | Please send the final version of the report after making the corrections.
+409 | SAFE | The workshop materials are available in the shared project folder.
+410 | PHISHING | Your card payment failed. Click the verification link and enter your card information now.
+411 | SAFE | The department has confirmed the date for the project presentation.
+412 | PHISHING | Your account will be permanently blocked unless you verify your identity through this link.
+413 | SAFE | Please bring the project documents to the review session.
+414 | SAFE | The research discussion has been scheduled for Thursday afternoon.
+415 | PHISHING | You have been selected for a limited financial reward. Provide your banking details to receive it.
+416 | SAFE | I have uploaded the latest meeting notes for everyone.
+417 | PHISHING | Security alert! Confirm your username and password immediately to secure your account.
+418 | SAFE | Please check the updated examination timetable.
+419 | SAFE | The laboratory session will begin at 11 AM tomorrow.
+420 | PHISHING | Your online banking access requires urgent verification. Login now using the verification link.
+421 | SAFE | The project coordinator will review the report tomorrow.
+422 | PHISHING | Your subscription will expire today. Click here and enter your payment details to renew it.
+423 | SAFE | Please confirm your attendance for the college seminar.
+424 | SAFE | The interview schedule has been shared with all candidates.
+425 | PHISHING | Your refund is ready to be processed. Enter your card information through the link.
+426 | SAFE | The team presentation practice is scheduled for 3 PM.
+427 | PHISHING | Your account has been locked because of unusual activity. Verify your personal details immediately.
+428 | SAFE | Please review the project requirements before beginning the next phase.
+429 | SAFE | The department meeting will take place in the conference room.
+430 | PHISHING | Final warning! Your banking profile will be disabled unless you confirm your login details today.
+431 | SAFE | I will send the revised presentation after the final review.
+432 | PHISHING | Congratulations! You are eligible for an exclusive reward. Click here and provide your bank information.
+433 | SAFE | The assignment submission deadline remains Friday afternoon.
+434 | SAFE | Please check the shared folder for the final research document.
+435 | PHISHING | Your credit card has been blocked. Verify your card details immediately using this link.
+436 | SAFE | The college event registration has been completed.
+437 | PHISHING | Your account security verification is incomplete. Login now to prevent account suspension.
+438 | SAFE | The project team will discuss the results during tomorrow's meeting.
+439 | SAFE | Please send your feedback about the seminar presentation.
+440 | PHISHING | Your delivery cannot be completed until you pay the required fee through the link.
+441 | SAFE | The training session will start at 2 PM on Friday.
+442 | PHISHING | Your password is expiring today. Click the link and enter your current password to keep access.
+443 | SAFE | Please bring your college ID to the workshop.
+444 | SAFE | The monthly report is available for review.
+445 | PHISHING | Your bank account requires immediate verification after a suspicious login was detected.
+446 | SAFE | I have shared the final project summary with the team.
+447 | PHISHING | You have won a cash prize. Submit your personal information to claim your reward now.
+448 | SAFE | The department has published the updated class schedule.
+449 | SAFE | Please confirm the location for tomorrow's project meeting.
+450 | PHISHING | Your account will be closed unless you verify your identity immediately through the link.
+451 | SAFE | The seminar feedback will be discussed during the next department meeting.
+452 | PHISHING | Your payment account has been restricted. Confirm your card information to restore access.
+453 | SAFE | Please review the attached document before the project discussion.
+454 | SAFE | The project demonstration will take place in the laboratory tomorrow.
+455 | PHISHING | Urgent! Your email account requires password verification. Click the link now.
+456 | SAFE | The research team has completed the first stage of the project.
+457 | PHISHING | Your bank has detected suspicious activity. Enter your login credentials to verify your account.
+458 | SAFE | Please submit the completed workshop registration form.
+459 | SAFE | The final presentation is ready for the review committee.
+460 | PHISHING | A special reward has been reserved for you. Provide your bank details to receive the payment.
+461 | SAFE | The class representative has shared the updated assignment schedule.
+462 | PHISHING | Your subscription payment has failed. Click here and enter your card details to renew it.
+463 | SAFE | Please send the revised document before tomorrow's meeting.
+464 | SAFE | The project meeting has been moved to 4 PM.
+465 | PHISHING | Your account has been flagged for unusual activity. Confirm your password immediately.
+466 | SAFE | The college seminar will be held in the main auditorium.
+467 | PHISHING | Your refund cannot be transferred until you verify your banking information.
+468 | SAFE | I will bring the presentation slides to the project review.
+469 | SAFE | Please check the research notes in the shared folder.
+470 | PHISHING | Your credit card verification has failed. Click the link and confirm your card information.
+471 | SAFE | The department office has announced the workshop timetable.
+472 | PHISHING | Final notice! Your online account will be disabled unless you complete verification today.
+473 | SAFE | Please confirm the project team members for the next session.
+474 | SAFE | The examination preparation meeting is scheduled for Monday.
+475 | PHISHING | You have been chosen for a special shopping reward. Enter your personal details to claim it.
+476 | SAFE | The interview panel will meet tomorrow morning.
+477 | PHISHING | Your banking credentials need immediate verification. Enter them through the attached link.
+478 | SAFE | Please review the project budget before the next discussion.
+479 | SAFE | The laboratory equipment has been prepared for the demonstration.
+480 | PHISHING | Your account password must be confirmed immediately or access will be suspended.
+481 | SAFE | I have completed the first draft of the project report.
+482 | PHISHING | Your delivery fee is pending. Click the link and make the payment immediately.
+483 | SAFE | Please send the meeting agenda to the project members.
+484 | SAFE | The seminar schedule has been confirmed by the department.
+485 | PHISHING | Congratulations! You have qualified for a cash bonus. Provide your bank information now.
+486 | SAFE | The training materials will be distributed before the session.
+487 | PHISHING | Your online banking profile has been locked. Verify your identity to restore access.
+488 | SAFE | Please check the project files for the latest changes.
+489 | SAFE | The assignment review will take place next week.
+490 | PHISHING | Your account is at risk of permanent closure. Click here and confirm your personal information.
+491 | SAFE | The college event will begin at 4 PM today.
+492 | PHISHING | Your payment card requires urgent security confirmation. Enter your card number now.
+493 | SAFE | Please bring the required documents to the department meeting.
+494 | SAFE | The research report has been shared for feedback.
+495 | PHISHING | Your email mailbox will be deleted unless you verify your account immediately.
+496 | SAFE | The project team will review the final presentation tomorrow.
+497 | PHISHING | You are eligible for an exclusive financial reward. Click here and submit your banking details.
+498 | SAFE | Please confirm your availability for the next project meeting.
+499 | SAFE | The updated timetable is available on the class portal.
+500 | PHISHING | URGENT! Your account has been suspended. Verify your password and personal information immediately.
+501 | SAFE | Please review the latest project documentation before the meeting.
+502 | PHISHING | Your bank account requires immediate verification. Click the link and confirm your login credentials.
+503 | SAFE | The department seminar will begin at 10 AM tomorrow.
+504 | PHISHING | Congratulations! You have won a cash reward. Enter your banking information to claim the prize.
+505 | SAFE | I have shared the updated project report with the team.
+506 | SAFE | Please confirm your attendance for Friday's workshop.
+507 | PHISHING | Your email account will be blocked unless you verify your password immediately.
+508 | SAFE | The project presentation practice will start at 3 PM.
+509 | PHISHING | Your payment card has been declined. Click here and enter your card details to complete the payment.
+510 | SAFE | The examination timetable has been updated on the class portal.
+511 | SAFE | Please send your comments on the research document.
+512 | PHISHING | Security alert! Suspicious activity was detected on your account. Verify your identity now.
+513 | SAFE | The laboratory session is scheduled for Wednesday afternoon.
+514 | PHISHING | Your account will be permanently suspended unless you confirm your personal details immediately.
+515 | SAFE | I will bring the required documents to tomorrow's meeting.
+516 | SAFE | The project team has completed the first review of the report.
+517 | PHISHING | You have been selected for an exclusive cash reward. Provide your bank details to receive it.
+518 | SAFE | Please check the shared folder for the final presentation.
+519 | PHISHING | Your password is expiring today. Click the link and verify your current password immediately.
+520 | SAFE | The department meeting has been moved to Thursday morning.
+521 | SAFE | Please submit the completed assignment before the deadline.
+522 | PHISHING | Your online banking account has been locked. Click here to verify your account information.
+523 | SAFE | The seminar registration has been completed successfully.
+524 | PHISHING | Your refund is waiting. Enter your card information through the link to receive the money.
+525 | SAFE | Please review the project requirements before the next development session.
+526 | SAFE | The interview schedule has been shared with all candidates.
+527 | PHISHING | Final warning! Your account will be closed unless you verify your identity today.
+528 | SAFE | The workshop materials have been uploaded for participants.
+529 | PHISHING | Your credit card security check has failed. Confirm your card details immediately.
+530 | SAFE | I have sent the meeting agenda to everyone.
+531 | SAFE | Please bring your laptop for the project demonstration.
+532 | PHISHING | Your subscription payment requires immediate verification. Enter your payment details now.
+533 | SAFE | The college event will take place in the main auditorium.
+534 | PHISHING | Your account has unusual login activity. Click the verification link and enter your password.
+535 | SAFE | Please check the latest version of the report before submission.
+536 | SAFE | The research group will meet at 2 PM tomorrow.
+537 | PHISHING | You have won a special shopping voucher. Provide your personal information to claim it.
+538 | SAFE | The project coordinator has shared the updated schedule.
+539 | PHISHING | Your banking profile needs urgent confirmation. Login now and verify your credentials.
+540 | SAFE | Please confirm the location of the next team meeting.
+541 | SAFE | The training session will begin at 9 AM on Monday.
+542 | PHISHING | Your account has been restricted because verification is incomplete. Confirm your details immediately.
+543 | SAFE | I have uploaded the final research notes to the shared folder.
+544 | PHISHING | Your delivery is waiting for a payment. Click the link and pay the delivery fee now.
+545 | SAFE | Please review the presentation slides before the seminar.
+546 | SAFE | The project review committee will meet next week.
+547 | PHISHING | Your bank has detected suspicious transactions. Verify your account immediately through the link.
+548 | SAFE | The assignment review meeting is planned for Friday.
+549 | PHISHING | Your email account is scheduled for deletion. Login immediately to stop the deletion.
+550 | SAFE | Please send the final document to the project coordinator.
+551 | SAFE | The department has approved the project presentation date.
+552 | PHISHING | Act now! A financial reward is waiting for you. Enter your bank details to claim it.
+553 | SAFE | The laboratory equipment is ready for the project session.
+554 | PHISHING | Your payment account has been suspended. Confirm your card information to restore access.
+555 | SAFE | Please complete the seminar feedback form after the session.
+556 | SAFE | The project team will discuss the final results tomorrow.
+557 | PHISHING | Your account verification deadline is today. Click here and provide your personal details.
+558 | SAFE | The class representative has shared the updated timetable.
+559 | PHISHING | Your online banking password must be confirmed immediately to prevent account closure.
+560 | SAFE | I will send the revised report after receiving the team's feedback.
+561 | SAFE | Please check the project folder for the latest files.
+562 | PHISHING | Congratulations! You have qualified for a special cash bonus. Claim it by entering your bank information.
+563 | SAFE | The workshop certificate will be available next week.
+564 | PHISHING | Your credit card has been temporarily blocked. Verify your information using this link.
+565 | SAFE | Please confirm your availability for the project discussion.
+566 | SAFE | The seminar room has been reserved for the event.
+567 | PHISHING | Your account has been flagged for unusual activity. Confirm your username and password now.
+568 | SAFE | The research report is ready for review.
+569 | PHISHING | Your payment has failed. Click the link and provide your card information to retry it.
+570 | SAFE | The project meeting notes have been shared with all members.
+571 | SAFE | Please bring the seminar materials tomorrow.
+572 | PHISHING | Your account will be disabled unless you complete the security verification immediately.
+573 | SAFE | The department office has released the revised schedule.
+574 | PHISHING | You have been selected for a free reward. Click here and enter your personal details.
+575 | SAFE | Please review the attendance information and report any errors.
+576 | SAFE | The final presentation will be reviewed by the faculty tomorrow.
+577 | PHISHING | Your banking account requires immediate password verification. Use the link to confirm it.
+578 | SAFE | The project team will meet in the conference room at 11 AM.
+579 | PHISHING | Your subscription will expire today. Update your card details immediately to avoid cancellation.
+580 | SAFE | Please submit the project form to the department office.
+581 | SAFE | I have shared the updated assignment instructions with the class.
+582 | PHISHING | Your account has detected an unauthorized login. Verify your identity through the link now.
+583 | SAFE | The college seminar schedule has been confirmed.
+584 | PHISHING | Your refund cannot be processed until you confirm your banking details.
+585 | SAFE | Please review the research findings before the next discussion.
+586 | SAFE | The interview panel will meet tomorrow at 10 AM.
+587 | PHISHING | Final security notice! Your account will be blocked unless you verify your password immediately.
+588 | SAFE | The project documentation has been updated with the latest changes.
+589 | PHISHING | Your card payment requires urgent confirmation. Enter your card number through the link.
+590 | SAFE | Please check the class portal for the latest announcement.
+591 | SAFE | The training materials are available in the shared folder.
+592 | PHISHING | Your email account requires immediate verification to avoid permanent suspension.
+593 | SAFE | The department meeting will take place on Monday afternoon.
+594 | PHISHING | You are eligible for an exclusive financial reward. Provide your bank information to receive it.
+595 | SAFE | Please send the final presentation after making the requested corrections.
+596 | SAFE | The project demonstration is scheduled for next Wednesday.
+597 | PHISHING | Your account password has expired. Click here and enter your password to restore access.
+598 | SAFE | The seminar feedback will be discussed at the next meeting.
+599 | PHISHING | URGENT! Your banking profile will be closed unless you confirm your personal information immediately.
+600 | SAFE | Please review the final project report before submission.
+601 | PHISHING | URGENT! Your bank account has been suspended. Verify your identity immediately using the link.
+602 | SAFE | Please review the project report before tomorrow's meeting.
+603 | SAFE | The department has shared the updated seminar schedule.
+604 | PHISHING | Congratulations! You have won a cash prize. Click here to provide your bank details.
+605 | SAFE | I have uploaded the latest presentation to the project folder.
+606 | PHISHING | Your email account will be disabled unless you confirm your password immediately.
+607 | SAFE | Please bring the required documents to the workshop.
+608 | SAFE | The project team will meet at 10 AM tomorrow.
+609 | PHISHING | Your payment card requires immediate verification. Enter your card information through the link.
+610 | SAFE | The examination timetable is now available on the class portal.
+611 | PHISHING | Your account has been flagged for suspicious activity. Verify your login credentials now.
+612 | SAFE | Please send your feedback about the latest project presentation.
+613 | SAFE | The laboratory session will begin at 2 PM on Wednesday.
+614 | PHISHING | You have been selected for an exclusive financial reward. Enter your bank information to claim it.
+615 | SAFE | The research document has been shared with the project group.
+616 | PHISHING | Your account will be permanently blocked unless you verify your personal information today.
+617 | SAFE | Please confirm your attendance for the department meeting.
+618 | SAFE | The assignment submission deadline is Friday afternoon.
+619 | PHISHING | Your refund is ready. Click the link and enter your card details to receive the money.
+620 | SAFE | The project review session has been scheduled for Thursday.
+621 | PHISHING | Your online banking account requires urgent verification. Login through the link immediately.
+622 | SAFE | I have shared the meeting agenda with everyone.
+623 | SAFE | Please check the updated project requirements before starting.
+624 | PHISHING | Your password will expire today. Click here and enter your current password immediately.
+625 | SAFE | The college seminar will be held in the main auditorium.
+626 | PHISHING | Your credit card has been blocked. Confirm your card information using this link.
+627 | SAFE | The project coordinator will review the report tomorrow.
+628 | PHISHING | Final warning! Your account will be closed unless you verify your identity now.
+629 | SAFE | Please send the revised document to the team.
+630 | SAFE | The workshop materials are available in the shared folder.
+631 | PHISHING | Your delivery is waiting for payment. Click the link and pay the delivery fee immediately.
+632 | SAFE | The interview schedule has been sent to all candidates.
+633 | PHISHING | Security alert! Confirm your username and password to secure your account.
+634 | SAFE | Please review the attendance sheet for the seminar.
+635 | SAFE | The final project presentation will be discussed next Monday.
+636 | PHISHING | You have won a special reward. Provide your banking information to receive it.
+637 | SAFE | The department meeting has been moved to 3 PM.
+638 | PHISHING | Your subscription payment has failed. Enter your card details through the link to renew it.
+639 | SAFE | Please bring your laptop for tomorrow's project demonstration.
+640 | SAFE | The training session will begin at 9 AM on Friday.
+641 | PHISHING | Your account has unusual activity. Verify your identity immediately through the attached link.
+642 | SAFE | I will send the final project report after the review.
+643 | PHISHING | Your banking profile requires immediate confirmation. Enter your login details now.
+644 | SAFE | Please check the latest research notes in the shared folder.
+645 | SAFE | The seminar feedback form will be available after the session.
+646 | PHISHING | Your account security verification has expired. Click here and confirm your personal details.
+647 | SAFE | The project team will discuss the final results tomorrow.
+648 | PHISHING | Congratulations! A cash reward is waiting for you. Click here and claim it immediately.
+649 | SAFE | Please submit the completed workshop form to the department office.
+650 | SAFE | The project files have been updated with the latest changes.
+651 | PHISHING | Your online account will be deleted unless you verify your password today.
+652 | SAFE | The college event registration has been completed successfully.
+653 | PHISHING | Your payment account has been restricted. Confirm your card details to restore access.
+654 | SAFE | Please confirm the meeting location with the project coordinator.
+655 | SAFE | The research group will meet in the laboratory tomorrow afternoon.
+656 | PHISHING | Your bank has detected suspicious transactions. Verify your account immediately.
+657 | SAFE | I have shared the final presentation with the project team.
+658 | PHISHING | You are eligible for a limited cash bonus. Provide your bank information to receive it.
+659 | SAFE | Please review the assignment instructions before submission.
+660 | SAFE | The department has released the revised timetable.
+661 | PHISHING | Your email account requires immediate password verification. Click the link now.
+662 | SAFE | The project demonstration will take place next Wednesday.
+663 | PHISHING | Your account will be suspended today unless you confirm your identity immediately.
+664 | SAFE | Please send the meeting notes to the project members.
+665 | SAFE | The interview panel will meet at 11 AM tomorrow.
+666 | PHISHING | Your card payment could not be completed. Enter your payment information through this link.
+667 | SAFE | The workshop certificate will be distributed next week.
+668 | PHISHING | Final security notice! Verify your banking credentials immediately to avoid account closure.
+669 | SAFE | Please review the project budget before the next discussion.
+670 | SAFE | The seminar room has been reserved for Friday's event.
+671 | PHISHING | Your account has been temporarily locked because of unusual activity. Verify it now.
+672 | SAFE | I have completed the first draft of the research report.
+673 | PHISHING | You have been chosen for a special shopping reward. Click here and submit your personal details.
+674 | SAFE | Please confirm the number of participants for the training session.
+675 | SAFE | The class schedule has been updated for next week.
+676 | PHISHING | Your refund cannot be processed until you confirm your banking information.
+677 | SAFE | The project team will meet in the conference room at 2 PM.
+678 | PHISHING | Your password reset requires immediate confirmation. Enter your password using the verification link.
+679 | SAFE | Please bring a printed copy of the project report.
+680 | SAFE | The department seminar registration is now complete.
+681 | PHISHING | Your account has been selected for a special reward. Provide your bank details to claim it.
+682 | SAFE | The laboratory equipment has been prepared for the project session.
+683 | PHISHING | Your credit card security verification has failed. Confirm your information immediately.
+684 | SAFE | Please review the final presentation before the faculty meeting.
+685 | SAFE | The research discussion is planned for Thursday afternoon.
+686 | PHISHING | Your subscription will expire today. Click here and update your payment details immediately.
+687 | SAFE | I will send the meeting invitation shortly.
+688 | PHISHING | Your online banking access has been restricted. Verify your credentials through the link now.
+689 | SAFE | Please check the shared folder for the latest project documents.
+690 | SAFE | The examination preparation meeting will be held on Monday.
+691 | PHISHING | URGENT! Your account will be permanently closed unless you complete verification immediately.
+692 | SAFE | The project coordinator has shared the updated schedule.
+693 | PHISHING | Your delivery requires an additional payment. Click here and provide your card details.
+694 | SAFE | Please send your comments on the final report.
+695 | SAFE | The college workshop will start at 10 AM tomorrow.
+696 | PHISHING | Your account has detected an unauthorized login. Confirm your password immediately.
+697 | SAFE | The team will review the project results during the next meeting.
+698 | PHISHING | Congratulations! You have qualified for a financial reward. Enter your bank information to claim it.
+699 | SAFE | Please submit the final assignment before the deadline.
+700 | PHISHING | Final warning! Your banking account requires immediate verification or access will be blocked.
